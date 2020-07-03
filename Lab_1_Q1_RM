@@ -1,0 +1,4 @@
+force A 0 0ns, 1 4ns -repeat 8ns
+force B 0 0ns, 1 2ns -repeat 4ns
+force Bin 0 0ns, 1 1ns -repeat 2ns
+run 24ns
